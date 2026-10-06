@@ -64,3 +64,4 @@ Then visit [http://localhost:8000](http://localhost:8000).
 - **Resume**: You can add your `resume.pdf` into the root directory and link to it from the hero action buttons.
 
 # AI-Club-10-6
+# AI-Club-10-6
